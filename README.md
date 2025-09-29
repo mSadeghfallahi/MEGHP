@@ -22,7 +22,7 @@ We recorded MEG signals while participants read the novel and compared them with
 ## 🛠️ Methods
 
 ### 📊 Data Collection
-* **Source: https://arxiv.org/abs/2311.09308 
+* Source: https://arxiv.org/abs/2311.09308 
 * **Participants**: 12
 * **Stimulus**: Chapters 9 & 10 (*9,651 words*)
 * **Presentation**: Each word shown for *500 ms*
